@@ -4,6 +4,7 @@ We improved the alignment performance of the Chinese text super-resolution datas
 ![Table](https://github.com/Bingold007/refined-Real-CE/blob/main/table.jpg)
 
 ![Figure](https://github.com/Bingold007/refined-Real-CE/blob/main/figure.jpg)
+
 Fig Visualization of alignment effects on Real-CE. We combine the R channel of the 13mm, the B channel of the 26mm, and the G channel of the 52mm into one image. There may be color overflow in areas with poor alignment.
 
 # Benchmark Installation
