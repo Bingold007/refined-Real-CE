@@ -1,6 +1,10 @@
 # refined-Real-CE
 We improved the alignment performance of the Chinese text super-resolution dataset Real-CE
 
+![Table](https://github.com/Bingold007/refined-Real-CE/blob/main/table.jpg)
+
+![Figure](https://github.com/Bingold007/refined-Real-CE/blob/main/figure.jpg)
+
 # Benchmark Installation
 Please see the original repo [Real-CE](https://github.com/mjq11302010044/Real-CE) for installation details.
 
